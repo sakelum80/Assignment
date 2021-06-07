@@ -1,0 +1,12 @@
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\bin\Debug\net5.0\Student.DataModel.deps.json
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\bin\Debug\net5.0\Student.DataModel.dll
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\bin\Debug\net5.0\ref\Student.DataModel.dll
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\bin\Debug\net5.0\Student.DataModel.pdb
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\Student.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\Student.DataModel.AssemblyInfoInputs.cache
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\Student.DataModel.AssemblyInfo.cs
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\Student.DataModel.csproj.CoreCompileInputs.cache
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\Student.DataModel.dll
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\ref\Student.DataModel.dll
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\Student.DataModel.pdb
+C:\Sakthi\Assignment\Job.CodeAssessment\Student.DataModel\obj\Debug\net5.0\Student.DataModel.csprojAssemblyReference.cache
